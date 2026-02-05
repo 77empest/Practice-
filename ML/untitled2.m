@@ -8,3 +8,5 @@ result = x + v;
 
 
 lol = 420 + 69;
+
+nothing = 5000-5000;
